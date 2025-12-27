@@ -32,3 +32,13 @@ YOLOv3n, YOLOv5n, YOLOv8n, YOLOv11n, SSD, Faster R-CNN, and RetinaNet.
 
 The Building material dataset is designed for classification task and shows consistent performance across various mainstream classification models，including 
 Yolo-ResNet50，Yolo-ResNet101，VGGNet-19、MobileNetv2、DenseNet121、EfficientNet-B0
+
+# -Download
+The datasets are hosted on Zenodo:
+
+https://doi.org/10.5281/zenodo.18067669
+
+- FF-dataset.zip: Fire protection facility detection dataset (YOLO format)
+- Material-dataset.zip: Building material classification dataset (YOLO format)
+
+All datasets are fully annotated and pre-split into training, validation, and test sets.
